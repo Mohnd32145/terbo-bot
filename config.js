@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5214774444444", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
+["994400776021", '♯𝑻𝑼𝑹𝑩𝑶◡̈⃝', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
 ["5492266613038"], 
 ["5573031859"],
 ["593968585383"],
@@ -126,9 +126,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593968263524", 'Gata Dios 💻', 1], 
-["573147616444", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
+["994400776021", '♯𝑻𝑼𝑹𝑩𝑶◡̈⃝', 1], 
+["994400776021", '♯𝑻𝑼𝑹𝑩𝑶◡̈⃝', 1],  
+["994400776021", '♯𝑻𝑼𝑹𝑩𝑶◡̈⃝', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -449,11 +449,11 @@ console.log(chalk.redBright("Update 'config.js'"));
 import(`${file}?update=${Date.now()}`);
 })
 
-global.yt = 'https://youtube.com/@gatadios'
-global.ig = 'https://www.instagram.com/gata_dios'
+global.yt = 'https://youtube.com'
+global.ig = 'https://www.instagram.com/terbo 001'
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789'
-global.tk = 'https://www.tiktok.com/@gata_dios'
+global.tk = 'https://www.tiktok.com/@mohndalcot'
 global.ths = 'https://www.threads.net/@gata_dios'
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'https://wa.me/message/MEKOUFBEOG5ED1'
